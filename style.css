@@ -75,7 +75,6 @@ header ul li a {
     height: auto;
 
     /* makes logo white */
-    filter: grayscale(1) brightness(0) invert(1);
 
     margin-bottom: 25px;
 }
